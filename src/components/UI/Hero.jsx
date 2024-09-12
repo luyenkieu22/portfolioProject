@@ -1,5 +1,5 @@
 import React from "react";
-import heroImg from "../../assets/images/hero.svg";
+import heroImg from "../../assets/images/avatar.jpeg";
 import CountUp from "react-countup";
 
 const Hero = () => {
@@ -32,7 +32,7 @@ const Hero = () => {
                         >
                             <a href="#contact">
                                 <button className="bg-primaryColor text-white font-[500] flex items-center gap-2 hover:bg-smallTextColor ease-in duration-300 py-2 px-4 rounded-[8px]">
-                                    <i class="ri-mail-line"></i>
+                                    <i class="ri-mail-line"></i> Hire me
                                 </button>
                             </a>
                             <a
@@ -85,7 +85,7 @@ const Hero = () => {
                     {/* ========= Hero img ========= */}
                     <div className="basic-1/3 mt-10 sm:mt-0">
                         <figure className="flex items-center justify-center">
-                            <img src={heroImg} alt="" />
+                            <img className="w-full mx-auto md:w-[600px] h-full rounded-[20px]" src={heroImg} alt="" />
                         </figure>
                     </div>
                     {/* ========= Hero img end ========= */}
@@ -93,7 +93,7 @@ const Hero = () => {
                     <div className="md:basic-1/5 flex justify-between text-center mt-10 flex-wrap gap-3 md:mt-0 md:flex-col md:justify-end md:text-end">
                         <div className="mb-10">
                             <h2 className="text-headingColor font-[700] text-[32px]">
-                                <CountUp start={0} end={2} duration={2} suffix="+" />
+                                <CountUp start={0} end={1} duration={2} suffix="+" />
                             </h2>
                             <h4 className="text-headingColor font-[600] text-[18px]">Years of Experience</h4>
                         </div>
