@@ -40,11 +40,11 @@ const Services = () => {
                                                     Frontend Development
                                                 </h3>
                                                 <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                                                    Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                    elit. Recusandae molestias sit tempore nihil,
-                                                    consequuntur omnis eveniet hic ducimus vitae minima in
-                                                    est? Assumenda eum facilis repellat consequatur
-                                                    quisquam id odio!
+                                                    Developing user interfaces (UI) using React, Next.js,
+                                                    Tailwind CSS. Optimizing performance with Redux
+                                                    Toolkit, reducing unnecessary re-renders to ensure a
+                                                    smooth user experience. Implementing Lazy Loading and
+                                                    Code Splitting to enhance page load speed.
                                                 </p>
                                             </div>
                                         </div>
@@ -72,11 +72,12 @@ const Services = () => {
                                                     Backend Development
                                                 </h3>
                                                 <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                                                    Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                    elit. Recusandae molestias sit tempore nihil,
-                                                    consequuntur omnis eveniet hic ducimus vitae minima in
-                                                    est? Assumenda eum facilis repellat consequatur
-                                                    quisquam id odio!
+                                                    Integrating APIs and working with Node.js, Express to
+                                                    connect frontend with backend. Utilizing RESTful API
+                                                    and GraphQL for flexible data handling. Optimizing API
+                                                    calls with useEffect and useCallback, reducing
+                                                    redundant fetch requests to improve application
+                                                    performance.
                                                 </p>
                                             </div>
                                         </div>
@@ -104,11 +105,10 @@ const Services = () => {
                                                     UI/UX Design
                                                 </h3>
                                                 <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                                                    Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                    elit. Recusandae molestias sit tempore nihil,
-                                                    consequuntur omnis eveniet hic ducimus vitae minima in
-                                                    est? Assumenda eum facilis repellat consequatur
-                                                    quisquam id odio!
+                                                    Designing intuitive and user-friendly interfaces using
+                                                    Figma and Tailwind CSS. Focusing on responsive design
+                                                    to ensure proper display across all devices. Applying
+                                                    UX best practices to enhance user experience.
                                                 </p>
                                             </div>
                                         </div>
@@ -135,11 +135,12 @@ const Services = () => {
                                                     Apps Development
                                                 </h3>
                                                 <p className="text-[15px] text-smallTextColor group-hover:text-white group-hover:font-[500] leading-7">
-                                                    Lorem ipsum, dolor sit amet consectetur adipisicing
-                                                    elit. Recusandae molestias sit tempore nihil,
-                                                    consequuntur omnis eveniet hic ducimus vitae minima in
-                                                    est? Assumenda eum facilis repellat consequatur
-                                                    quisquam id odio!
+                                                    Developing mobile applications with React Native,
+                                                    optimizing performance using Expo and Hermes Engine.
+                                                    Integrating APIs, ensuring smooth data processing, and
+                                                    synchronizing data with Firebase and SQLite.
+                                                    Delivering a native-like experience with Gesture
+                                                    Handling and Animations
                                                 </p>
                                             </div>
                                         </div>

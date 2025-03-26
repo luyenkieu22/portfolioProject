@@ -11,31 +11,31 @@ const portfolios = [
     id: "01",
     imgUrl: portfolioImg01,
     category: "Web Design",
-    title: "Finance Technology Website",
+    title: "Portfolio Website",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+      "This is a website introducing myself, my projects, and my experience.",
+    technologies: ["React", "Redux", "Tailwind css", "Reactstrap"],
+    siteUrl: "/",
   },
   {
     id: "02",
     imgUrl: portfolioImg04,
     category: "Ux",
-    title: "Video Conference Website",
+    title: "Personnel management",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+      "Human Resource Management Project A website for managing employees, including those currently working, former employees, and those on leave.",
+    technologies: ["React", "Redux toolkit", "Material-UI", ".Net"],
+    siteUrl: "https://luyenkieu-preproject.onrender.com/",
   },
   {
     id: "03",
     imgUrl: portfolioImg02,
     category: "Ux",
-    title: "Multimedia Sharing Website",
+    title: "Graduation project",
     description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
+      "Construction materials management project allows users to purchase, view statistics, sell at the counter",
+    technologies: ["React", "React Query", "Redux", "Material UI", ".net core", "GraphQL"],
+    siteUrl: "https://ptdn-net7.onrender.com/",
   },
   {
     id: "04",
@@ -90,9 +90,9 @@ const portfolios = [
   },
   {
     id: "09",
-    imgUrl: portfolioImg02,
-    category: "Ux",
-    title: "Video Conference Website",
+    imgUrl: portfolioImg07,
+    category: "Web Design",
+    title: "Appointment Booking Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
@@ -100,9 +100,9 @@ const portfolios = [
   },
   {
     id: "10",
-    imgUrl: portfolioImg03,
-    category: "Ux",
-    title: "File Sharing Website",
+    imgUrl: portfolioImg01,
+    category: "Web Design",
+    title: "Finance Technology Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
@@ -110,9 +110,9 @@ const portfolios = [
   },
   {
     id: "11",
-    imgUrl: portfolioImg04,
+    imgUrl: portfolioImg07,
     category: "Web Design",
-    title: "Landing Page",
+    title: "Appointment Booking Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
@@ -120,29 +120,9 @@ const portfolios = [
   },
   {
     id: "12",
-    imgUrl: portfolioImg05,
+    imgUrl: portfolioImg01,
     category: "Web Design",
-    title: "Landing Page",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "13",
-    imgUrl: portfolioImg06,
-    category: "Web Design",
-    title: "Online Therapy Website",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
-    technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
-    siteUrl: "#",
-  },
-  {
-    id: "14",
-    imgUrl: portfolioImg07,
-    category: "ux",
-    title: "Appointment Booking Website",
+    title: "Finance Technology Website",
     description:
       "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium vitae sunt magnam numquam esse ipsam? Quis qui enim, temporibus dignissimos atque repellendus amet a velit. Dolorem quidem animi doloribus saepe!",
     technologies: ["React", "Tailwind css", "Node.js", "MongoDB"],
